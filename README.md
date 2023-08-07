@@ -1,2 +1,1 @@
-# alurabook
-Projeto feito durante o curso.
+# ALURA-07.08
